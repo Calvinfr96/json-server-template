@@ -6,6 +6,167 @@
       "category": "Produce",
       "price": 1.99,
       "isInCart": false
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "category": "Produce",
+      "price": 0.99,
+      "isInCart": false
+    },
+    {
+      "id": 3,
+      "name": "Whole Watermelon",
+      "category": "Produce",
+      "price": 4.99,
+      "isInCart": false
+    },
+    {
+      "id": 4,
+      "name": "Cantaloupe",
+      "category": "Produce",
+      "price": 2.99,
+      "isInCart": false
+    },
+    {
+      "id": 5,
+      "name": "Tomatoes (1lb)",
+      "category": "Produce",
+      "price": 1.99,
+      "isInCart": false
+    },
+    {
+      "id": 6,
+      "name": "Ground Beef (1lb)",
+      "category": "Meat",
+      "price": 2.99,
+      "isInCart": false
+    },
+    {
+      "id": 7,
+      "name": "Ground Turkey (1lb)",
+      "category": "Meat",
+      "price": 3.99,
+      "isInCart": false
+    },
+    {
+      "id": 8,
+      "name": "Salmon (1lb)",
+      "category": "Sea Food",
+      "price": 10.99,
+      "isInCart": false
+    },
+    {
+      "id": 9,
+      "name": "Tilapia (1lb)",
+      "category": "Sea Food",
+      "price": 9.99,
+      "isInCart": false
+    },
+    {
+      "id": 10,
+      "name": "Grad A Whole Milk (1 Gallon)",
+      "category": "Dairy & Eggs",
+      "price": 3.99,
+      "isInCart": false
+    },
+    {
+      "id": 11,
+      "name": "1 Dozen Grade A Large Eggs",
+      "category": "Dairy & Eggs",
+      "price": 4.99,
+      "isInCart": false
+    },
+    {
+      "id": 12,
+      "name": "Salted Butter (1lb)",
+      "category": "Dairy & Eggs",
+      "price": 1.99,
+      "isInCart": false
+    },
+    {
+      "id": 13,
+      "name": "1 Loaf White Bread",
+      "category": "Grocery",
+      "price": 2.49,
+      "isInCart": false
+    },
+    {
+      "id": 14,
+      "name": "Bagels (6 Pack)",
+      "category": "Grocery",
+      "price": 5.99,
+      "isInCart": false
+    },
+    {
+      "id": 15,
+      "name": "1 Gallon Vegetable Oil",
+      "category": "Produce",
+      "price": 4.99,
+      "isInCart": false
+    },
+    {
+      "id": 16,
+      "name": "White Rice (10lb bag)",
+      "category": "Grocery",
+      "price": 7.99,
+      "isInCart": false
+    },
+    {
+      "id": 17,
+      "name": "Penn Rigate Pasta (16 oz)",
+      "category": "Grocery",
+      "price": 0.99,
+      "isInCart": false
+    },
+    {
+      "id": 18,
+      "name": "Vanilla Ice Cream (1.5 quart)",
+      "category": "Frozen",
+      "price": 3.99,
+      "isInCart": false
+    },
+    {
+      "id": 19,
+      "name": "Frozen Organic Mixed Vegetables",
+      "category": "Frozen",
+      "price": 1.99,
+      "isInCart": false
+    },
+    {
+      "id": 20,
+      "name": "Frozen Homestyle Waffles (24 pack)",
+      "category": "Frozen",
+      "price": 6.49,
+      "isInCart": false
+    },
+    {
+      "id": 21,
+      "name": "Butter Croissants 4 count",
+      "category": "Bakery",
+      "price": 4.49,
+      "isInCart": false
+    },
+    {
+      "id": 22,
+      "name": "Blueberry Muffins (6 pack)",
+      "category": "Bakery",
+      "price": 5.99,
+      "isInCart": false
+    },
+    {
+      "id": 23,
+      "name": "Cooked Ham (0.5lb)",
+      "category": "Deli",
+      "price": 1.49,
+      "isInCart": false
+    },
+    {
+      "id": 24,
+      "name": "Mozzarella Cheeze (0.5lb)",
+      "category": "Produce",
+      "price": 1.99,
+      "isInCart": false
     }
   ],
   "cartItems": []
