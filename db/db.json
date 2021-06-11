@@ -101,7 +101,7 @@
     {
       "id": 15,
       "name": "1 Gallon Vegetable Oil",
-      "category": "Produce",
+      "category": "Grocery",
       "price": 4.99,
       "isInCart": false
     },
@@ -164,7 +164,7 @@
     {
       "id": 24,
       "name": "Mozzarella Cheeze (0.5lb)",
-      "category": "Produce",
+      "category": "Deli",
       "price": 1.99,
       "isInCart": false
     }
