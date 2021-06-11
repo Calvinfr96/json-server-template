@@ -169,10 +169,10 @@
       "isInCart": false
     }
   ],
-  "cartItems": [
+  "cartInfo": [
     {
       "id": 1,
-      "cartTotal": 0.00
+      "total": 0
     }
   ]
 }
