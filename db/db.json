@@ -168,11 +168,5 @@
       "price": 1.99,
       "isInCart": false
     }
-  ],
-  "cartInfo": [
-    {
-      "id": 1,
-      "total": 0
-    }
   ]
 }
